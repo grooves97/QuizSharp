@@ -5,3 +5,10 @@ C:\Users\НурсеитовА.CORP.000\source\repos\RegistrationForm\Registratio
 C:\Users\НурсеитовА.CORP.000\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
 C:\Users\НурсеитовА.CORP.000\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
 C:\Users\НурсеитовА.CORP.000\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb
+C:\Users\ww\Documents\GitHub\QuizSharp\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+C:\Users\ww\Documents\GitHub\QuizSharp\RegistrationForm\bin\Debug\RegistrationForm.exe
+C:\Users\ww\Documents\GitHub\QuizSharp\RegistrationForm\bin\Debug\RegistrationForm.pdb
+C:\Users\ww\Documents\GitHub\QuizSharp\RegistrationForm\obj\Debug\RegistrationForm.csprojAssemblyReference.cache
+C:\Users\ww\Documents\GitHub\QuizSharp\RegistrationForm\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\ww\Documents\GitHub\QuizSharp\RegistrationForm\obj\Debug\RegistrationForm.exe
+C:\Users\ww\Documents\GitHub\QuizSharp\RegistrationForm\obj\Debug\RegistrationForm.pdb
